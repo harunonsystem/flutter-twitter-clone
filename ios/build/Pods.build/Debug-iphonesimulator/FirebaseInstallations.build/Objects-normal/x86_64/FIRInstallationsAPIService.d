@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.m \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsAPIService.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsVersion.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromises.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/build/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Wrap.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Validate.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Timeout.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Then.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Testing.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Retry.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Reduce.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Recover.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Race.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Do.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Delay.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Catch.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Await.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Async.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Any.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+Always.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromiseError.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise.h \
+  /Users/harunon/Projects/flutter_twitter_clone/build/ios/Debug-iphonesimulator/PromisesObjC/FBLPromises.framework/Headers/FBLPromise+All.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/build/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRAppInternal.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIROptions.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRLoggerLevel.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRConfiguration.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Public/FIRApp.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrors.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRErrorCode.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRHeartbeatInfo.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FIRInstallationsErrors.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsAPI/FIRInstallationsItem+RegisterInstallationAPI.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsItem.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/InstallationsIDController/FIRInstallationsStatus.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/FIRInstallationsLogger.h \
+  /Users/harunon/Projects/flutter_twitter_clone/ios/Pods/FirebaseCore/FirebaseCore/Sources/Private/FIRLogger.h
